@@ -1,0 +1,37 @@
+body{
+    background-color: aquamarine;
+}
+
+.father{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    height: 100vh;
+}
+
+.son{
+    height: 200px;
+    width: 200px;
+    margin-left: 5px;
+}
+
+#primerDiv{
+    background-color:blue ;
+    border: solid 1px black;
+}
+
+#segundoDiv{
+    background-color: red;
+    border: solid 1px black;
+}
+
+#tercerDiv{
+    background-color: green;
+    border: solid 1px black;
+}
+
+#cuartoDiv{
+    background-color: yellow;
+    border: solid 1px black;
+}
